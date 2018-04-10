@@ -1,0 +1,2 @@
+trying to see if global command git config --global alias.add-commit '!git add -A && git commit'
+ works to git add-commit -m
